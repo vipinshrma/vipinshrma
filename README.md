@@ -5,10 +5,10 @@
 
 
 
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
+- 🔭 I’m currently pursuing my Bachelor of Science in  Information Technology(Bsc.IT).
 - 🌱 I’m currently learning Full-Stack Development.
 
-- 🌱 I’m currently learning **Reactjs , Nodejs , express**
+- 🌱 Mostly I Build My Projects on **Reactjs , Nodejs , express**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-site-9720e6.netlify.app/](https://portfolio-site-9720e6.netlify.app/)
 
