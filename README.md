@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vipinshrma)](https://github.com/anuraghazra/github-readme-stats)
+![Vipin Sharma Github Stats](https://github-readme-stats.vercel.app/api?username=vipinshrma&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
+- 🌱 I’m currently learning Full-Stack Development.
 
 - 🌱 I’m currently learning **Reactjs , Nodejs , express**
 
