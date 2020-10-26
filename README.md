@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-site-9720e6.netlify.app/](https://portfolio-site-9720e6.netlify.app/)
 
-- 📫 How to reach me **https://twitter.com/Vipinshrma9**
+- 📫 How to reach me **https://www.linkedin.com/in/vipan-sharma-2bb6051b0/**
 
 ![Vipin Sharma Github Stats](https://github-readme-stats.vercel.app/api?username=vipinshrma&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
