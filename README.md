@@ -1,32 +1,122 @@
-
- 
+```md id="r34dm"
 <h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
-<h3 align="center">A passionate REACT || MERN stack developer from India</h3>
+<h3 align="center">Senior Frontend Engineer | React.js | Next.js | Scalable Product Development</h3>
 
-
-
-- 🔭 I’m currently pursuing my Bachelor of Science in  Information Technology(Bsc.IT).
-- 🌱 I’m currently learning Full-Stack Development.
-
-- 🌱 Mostly I Build My Projects on **Reactjs , Nodejs , express**
-
-- 👨‍💻 All of my projects are available at https://personal-portfolio-rnav-dun.vercel.app/
-
-- 📫 How to reach me **https://www.linkedin.com/in/vipan-sharma-2bb6051b0/**
-
-![Vipin Sharma Github Stats](https://github-readme-stats.vercel.app/api?username=vipinshrma&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<h3>🛠 Tech Stack</h3>
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="[https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg](https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg)" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/vipan-sharma-2bb6051b0/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:hemantshrma801@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/Vipinshrma9"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+Building performant, scalable, and production-ready web applications.
 </p>
-<hr \>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 **4.1+ years of professional experience** as a Frontend Engineer
+- 🚀 Currently working as **Senior Frontend/React Developer at TechIndustan**
+- ⚛️ Specialized in **React.js, Next.js, TypeScript, Tailwind CSS, Material UI**
+- 🏗 Experienced in building **large-scale production applications**
+- 🤝 Led frontend development and mentored junior developers
+- 🧠 Exploring **AI-powered applications & intelligent frontend systems**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Redux Toolkit
+- Tailwind CSS
+- Material UI
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- NestJS
+
+### Database & Infrastructure
+- PostgreSQL
+- Redis
+- Docker
+- Prisma
+
+### Mobile
+- React Native
+
+### Tools & Platforms
+- Git / GitHub
+- Vercel
+- Supabase
+- Mapbox
+- HERE Maps
+
+---
+
+## 🚀 Professional Experience
+
+### Senior Frontend/React Developer — TechIndustan
+**2.5+ Years**
+
+- Built and maintained scalable frontend applications
+- Developed reusable component architectures
+- Worked closely with backend teams for system integration
+- Optimized performance and improved application maintainability
+
+### Frontend Developer — HyperWolf
+
+Built and maintained all frontend systems for a large-scale cannabis delivery platform.
+
+**Worked with:**
+- Next.js
+- Material UI
+- Persona Verification
+- Stronghold
+- Intercom
+- Payment Integrations
+
+---
+
+## 🔥 Key Projects
+
+### VetConnect
+Veterinary emergency assistance platform  
+**React Native • Supabase • Mapbox**
+
+### Custom Page Builder
+Reusable component-based page builder architecture  
+**Next.js • Tailwind**
+
+### AI Chat Application
+Local LLM-based conversational app  
+**LangChain.js • Next.js**
+
+### Stock Market Analysis Platform
+Real-time market analysis & visualization
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-</p>     
+  <img src="https://github-readme-stats.vercel.app/api?username=vipinshrma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinshrma&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vipan-sharma-2bb6051b0/
+- 🌐 Portfolio: https://personal-portfolio-rnav-dun.vercel.app/
+
+---
+
+## 💭 Engineering Mindset
+
+> Clean architecture, performance optimization, and scalable systems over quick hacks.
+```
