@@ -1,4 +1,4 @@
-```md id="r34dm"
+
 <h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
 <h3 align="center">Senior Frontend Engineer | React.js | Next.js | Scalable Product Development</h3>
 
@@ -118,5 +118,3 @@ Real-time market analysis & visualization
 
 ## 💭 Engineering Mindset
 
-> Clean architecture, performance optimization, and scalable systems over quick hacks.
-```
