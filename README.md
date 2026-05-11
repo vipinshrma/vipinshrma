@@ -40,65 +40,6 @@ Building scalable, high-performance products used by 400,000+ users.
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
----
-
-## 💼 Professional Experience
-
-### Senior Frontend Developer  
-**TechIndustan** | Sep 2022 – Present
-
-- Led frontend architecture using React.js & Next.js
-- Built systems serving **400,000+ users**
-- Improved performance and reduced load times
-- Mentored junior developers
-- Collaborated across product, backend, and design teams
-
-### React.js Developer  
-**TechAbet** | Nov 2020 – Sep 2022
-
-- Owned complete frontend lifecycle
-- Delivered multiple projects independently
-- Contributed to backend development
-- Mentored and onboarded frontend developers
-
----
-
-## 🚀 Featured Projects
-
-### 🏗 Website Builder Platform (Zucora)
-Drag-and-drop website builder with reusable component architecture
-
-**Tech:** Next.js • TypeScript • Component System Design
-
----
-
-### 🚚 HyperWolf Delivery Platform
-Cannabis delivery platform serving **400K+ users**
-
-**Highlights**
-- Payment integrations
-- Persona verification
-- Real-time order workflows
-
----
-
-### 💳 HyperWolf POS System
-Role-based POS system with inventory management
-
-**Impact:** Reduced checkout time by **60%**
-
----
-
-### ⚡ Emerald EMS
-IoT-based energy management dashboard
-
-**Features**
-- OTA updates
-- Scalable utility management
-- Modular dashboard architecture
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
