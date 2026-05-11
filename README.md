@@ -1,25 +1,24 @@
-
-<h1 align="center">Hi 👋, I'm Vipin Sharma</h1>
-<h3 align="center">Senior Frontend Engineer | React.js | Next.js | Scalable Product Development</h3>
+<h1 align="center">Hey 👋, I'm Vipin Sharma</h1>
+<h3 align="center">Senior Frontend Engineer | React.js • Next.js • TypeScript</h3>
 
 <p align="center">
-Building performant, scalable, and production-ready web applications.
+Building scalable, high-performance products used by 400,000+ users.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 **5+ years of professional experience** as a Frontend Engineer
-- 🚀 Currently working as **Senior Frontend/React Developer at TechIndustan**
-- ⚛️ Specialized in **React.js, Next.js, TypeScript, Tailwind CSS, Material UI**
-- 🏗 Experienced in building **large-scale production applications**
-- 🤝 Led frontend development and mentored junior developers
-- 🧠 Exploring **AI-powered applications & intelligent frontend systems**
+- 💼 **Senior Frontend Developer with 5+ years of experience**
+- ⚛️ Specialized in **React.js, Next.js, TypeScript**
+- 🏗 Experienced in designing scalable frontend architecture
+- 🚀 Built production systems serving **400K+ active users**
+- 👨‍🏫 Mentored junior developers and led frontend initiatives
+- 🧠 Currently exploring **AI-powered applications & intelligent UI systems**
 
 ---
 
-## 🛠 Tech Stack
+## ⚒️ Tech Stack
 
 ### Frontend
 <p>
@@ -33,64 +32,70 @@ Building performant, scalable, and production-ready web applications.
 
 ### Database & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,prisma,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,docker,kubernetes" />
 </p>
 
-### Mobile & Maps
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-**Also worked with:**  
-Mapbox • HERE Maps
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
 ---
 
-## 🚀 Professional Experience
+## 💼 Professional Experience
 
-### Senior Frontend/React Developer — TechIndustan
-**2.5+ Years**
+### Senior Frontend Developer  
+**TechIndustan** | Sep 2022 – Present
 
-- Built and maintained scalable frontend applications
-- Developed reusable component architectures
-- Worked closely with backend teams for system integration
-- Optimized performance and improved application maintainability
+- Led frontend architecture using React.js & Next.js
+- Built systems serving **400,000+ users**
+- Improved performance and reduced load times
+- Mentored junior developers
+- Collaborated across product, backend, and design teams
 
-### Frontend Developer — HyperWolf
+### React.js Developer  
+**TechAbet** | Nov 2020 – Sep 2022
 
-Built and maintained all frontend systems for a large-scale cannabis delivery platform.
-
-**Worked with:**
-- Next.js
-- Material UI
-- Persona Verification
-- Stronghold
-- Intercom
-- Payment Integrations
+- Owned complete frontend lifecycle
+- Delivered multiple projects independently
+- Contributed to backend development
+- Mentored and onboarded frontend developers
 
 ---
 
-## 🔥 Key Projects
+## 🚀 Featured Projects
 
-### VetConnect
-Veterinary emergency assistance platform  
-**React Native • Supabase • Mapbox**
+### 🏗 Website Builder Platform (Zucora)
+Drag-and-drop website builder with reusable component architecture
 
-### Custom Page Builder
-Reusable component-based page builder architecture  
-**Next.js • Tailwind**
+**Tech:** Next.js • TypeScript • Component System Design
 
-### AI Chat Application
-Local LLM-based conversational app  
-**LangChain.js • Next.js**
+---
 
-### Stock Market Analysis Platform
-Real-time market analysis & visualization
+### 🚚 HyperWolf Delivery Platform
+Cannabis delivery platform serving **400K+ users**
+
+**Highlights**
+- Payment integrations
+- Persona verification
+- Real-time order workflows
+
+---
+
+### 💳 HyperWolf POS System
+Role-based POS system with inventory management
+
+**Impact:** Reduced checkout time by **60%**
+
+---
+
+### ⚡ Emerald EMS
+IoT-based energy management dashboard
+
+**Features**
+- OTA updates
+- Scalable utility management
+- Modular dashboard architecture
 
 ---
 
@@ -108,10 +113,12 @@ Real-time market analysis & visualization
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vipan-sharma-2bb6051b0/
-- 🌐 Portfolio: https://personal-portfolio-rnav-dun.vercel.app/
+<p align="left">
+<a href="https://www.linkedin.com/in/vipan-sharma-2bb6051b0/" target="blank">LinkedIn</a> •
+<a href="https://github.com/vipinshrma" target="blank">GitHub</a> •
+<a href="mailto:vipansharma.dev@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💭 Engineering Mindset
-
+## 💡 Engineering Philosophy
