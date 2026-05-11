@@ -22,35 +22,32 @@ Building performant, scalable, and production-ready web applications.
 ## 🛠 Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Redux Toolkit
-- Tailwind CSS
-- Material UI
-- Framer Motion
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- NestJS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
 ### Database & Infrastructure
-- PostgreSQL
-- Redis
-- Docker
-- Prisma
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,prisma,supabase" />
+</p>
 
-### Mobile
-- React Native
+### Mobile & Maps
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-### Tools & Platforms
-- Git / GitHub
-- Vercel
-- Supabase
-- Mapbox
-- HERE Maps
+**Also worked with:**  
+Mapbox • HERE Maps
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
