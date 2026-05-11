@@ -63,3 +63,5 @@ Building scalable, high-performance products used by 400,000+ users.
 ---
 
 ## 💡 Engineering Philosophy
+
+> Clean architecture. Scalable systems. Measurable impact.
