@@ -10,7 +10,7 @@ Building performant, scalable, and production-ready web applications.
 
 ## 👨‍💻 About Me
 
-- 💼 **4.1+ years of professional experience** as a Frontend Engineer
+- 💼 **5+ years of professional experience** as a Frontend Engineer
 - 🚀 Currently working as **Senior Frontend/React Developer at TechIndustan**
 - ⚛️ Specialized in **React.js, Next.js, TypeScript, Tailwind CSS, Material UI**
 - 🏗 Experienced in building **large-scale production applications**
